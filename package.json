@@ -1,7 +1,7 @@
 {
   "name": "nunjucks-spaceless-filter",
   "version": "1.0.0",
-  "description": "Calculate the difference between two dates based on the 360 day financial year",
+  "description": "Strip line breaks and white space between tags.",
   "keywords": [
     "nunjucks",
     "spaceless",
